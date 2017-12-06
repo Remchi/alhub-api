@@ -1,0 +1,7 @@
+MONGODB_URL=mongodb://localhost/alhub
+JWT_SECRET=secretkeyhere
+HOST=http://localhost:3000
+EMAIL_HOST=
+EMAIL_PORT=
+EMAIL_USER=
+EMAIL_PASS=
