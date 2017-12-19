@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Barbarian",
+    "description": ""
+  },
+  {
+    "name": "Bard",
+    "description": ""
+  },
+  {
+    "name": "Cleric",
+    "description": ""
+  },
+  {
+    "name": "Druid",
+    "description": ""
+  },
+  {
+    "name": "Fighter",
+    "description": ""
+  },
+  {
+    "name": "Monk",
+    "description": ""
+  },
+  {
+    "name": "Paladin",
+    "description": ""
+  },
+  {
+    "name": "Ranger",
+    "description": ""
+  },
+  {
+    "name": "Rogue",
+    "description": ""
+  },
+  {
+    "name": "Sorcerer",
+    "description": ""
+  },
+  {
+    "name": "Warlock",
+    "description": ""
+  },
+  {
+    "name": "Wizard",
+    "description": ""
+  }
+]
